@@ -21,7 +21,7 @@ with open('example.txt') as file:
     # read returns a string containing all text in the file
     content = file.read()
     # lines returns an array of string (each string ending in \n, the character for newline)
-    lines = file.lines()
+    lines = file.readlines()
     
 ```
 
