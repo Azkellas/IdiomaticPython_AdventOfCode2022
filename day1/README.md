@@ -1,3 +1,5 @@
+For how to follow this course, see [here](../README.md).
+
 ## Problem
 
 Let's solve our first day and save ~~the world~~ Christmas!
