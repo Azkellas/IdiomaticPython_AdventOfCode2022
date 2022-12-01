@@ -7,3 +7,7 @@ Puzzles can be solved in any language, sometimes in only 5mn, sometimes in a cou
 
 ## How to follow this course
 Readers are strongly encourage to first try the puzzle before reading the breakdown. Participating in AOC requires an account on the website, as each input is unique. Then each day consists of a readme explaining how to solve the day idiomaticaly, and a python file with a full answer. The course assumes day were read in order to progress incrementally. If you think something is not explained but should have been, it was probably done in a previous day.
+
+## Summary
+
+- [day 1](day1): reading files, map, sort, split, sum, max
