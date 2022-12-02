@@ -1,8 +1,9 @@
-# Day 2: Rock Paper Scissors
 
 [How to follow this course](../README.md).
 
 [Previous day](../day1)
+
+# Day 2: Rock Paper Scissors
 
 ## Problem
 
@@ -168,3 +169,13 @@ Feel free to improve the code even further!
 ### Final remarks
 
 Again, our solution is not the only one, simplest or fastest. Today's topic on the subreddit can be found [here](https://www.reddit.com/r/adventofcode/comments/zac2v2/2022_day_2_solutions/?sort=confidence).
+
+
+### References
+
+- [match](https://learnpython.com/blog/python-match-case-statement/)
+- [strip](https://www.w3schools.com/python/ref_string_strip.asp)
+- [list comprehension](https://www.w3schools.com/python/python_lists_comprehension.asp)
+- [ord](https://www.w3schools.com/python/ref_func_ord.asp)
+- [ascii table](https://www.asciitable.com/)
+- modulo: [wikipedia](https://en.wikipedia.org/wiki/Modulo_operation), [in python](https://realpython.com/python-modulo-operator/)
