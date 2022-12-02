@@ -1,5 +1,7 @@
 For how to follow this course, see [here](../README.md).
 
+# Day 1: Calorie Counting
+
 ## Problem
 
 Let's solve our first day and save ~~the world~~ Christmas!
@@ -139,3 +141,14 @@ Note that our solution is not the only one, simplest or fastest. If you visit th
 ```python3
 print(max([sum(list(map(int,line.split()))) for line in open('example.txt').read().split('\n\n')]))
 ```
+
+### References
+
+- [Reading a file](https://www.w3schools.com/python/python_file_open.asp)
+- [Lists in python](https://www.w3schools.com/python/python_lists.asp)
+- [`split`](https://www.w3schools.com/python/ref_string_split.asp)
+- [`map`](https://www.w3schools.com/python/ref_func_map.asp)
+- [`sum`](https://www.w3schools.com/python/ref_func_sum.asp)
+- [`max`](https://www.w3schools.com/python/ref_func_max.asp)
+- [`sort`](https://www.w3schools.com/python/ref_list_sort.asp)
+- [slicing](https://www.w3schools.com/python/python_strings_slicing.asp) and [`slice`](https://www.w3schools.com/python/ref_func_slice.asp)
