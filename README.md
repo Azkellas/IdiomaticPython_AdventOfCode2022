@@ -11,3 +11,4 @@ Readers are strongly encourage to first try the puzzle before reading the breakd
 ## Summary
 
 - [day 1](day1): reading files, map, sort, split, sum, max
+- [day 2](day2): match, list comprehension, modulo

@@ -173,9 +173,9 @@ Again, our solution is not the only one, simplest or fastest. Today's topic on t
 
 ### References
 
-- [match](https://learnpython.com/blog/python-match-case-statement/)
-- [strip](https://www.w3schools.com/python/ref_string_strip.asp)
+- [`match`](https://learnpython.com/blog/python-match-case-statement/)
+- [`strip`](https://www.w3schools.com/python/ref_string_strip.asp)
 - [list comprehension](https://www.w3schools.com/python/python_lists_comprehension.asp)
-- [ord](https://www.w3schools.com/python/ref_func_ord.asp)
+- [`ord`](https://www.w3schools.com/python/ref_func_ord.asp)
 - [ascii table](https://www.asciitable.com/)
 - modulo: [wikipedia](https://en.wikipedia.org/wiki/Modulo_operation), [in python](https://realpython.com/python-modulo-operator/)
