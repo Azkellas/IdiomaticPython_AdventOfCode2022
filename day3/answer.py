@@ -15,8 +15,6 @@ with open('example.txt') as file:
     for line in lines:
         median = len(line) // 2
         sets = [set(l.strip()) for l in [line[:median], line[median:]]]
-
-        # sets = [set(line[:median].strip()), set(line[median:].strip())]
         item = find_item(sets)
         part1_score += get_priority(item)
     print("part1:", part1_score)
