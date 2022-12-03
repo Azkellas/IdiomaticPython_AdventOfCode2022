@@ -31,7 +31,7 @@ for line in file.readlines():
 print(score)
 ```
 
-Here we use a `match` statement. `match` compares the provided value against all cases. When it fits one, it runs the code inside. It's a syntaxic sugar over `if-elif` ladders. Notice that we used `strip` on the line to remove the extra newline character `\n` present at the end of the line string. Otherwise we would have had to compare against `"A B\n"`.
+Here we use a `match` statement. `match` compares the provided value against all cases. When it fits one, it runs the code inside. It's a syntactic sugar over `if-elif` ladders. Notice that we used `strip` on the line to remove the extra newline character `\n` present at the end of the line string. Otherwise we would have had to compare against `"A B\n"`.
 
 > `match` is a python 3.10 feature. If you work on an older release, you will have to rely on `if-elif` ladders.
 
