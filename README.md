@@ -13,3 +13,4 @@ Readers are strongly encouraged to first try the puzzle before reading the break
 - [day 1](day1): reading files, map, sort, split, sum, max
 - [day 2](day2): match, list comprehension, modulo
 - [day 3](day3): complexity, sets
+- [day 4](day4): regex
