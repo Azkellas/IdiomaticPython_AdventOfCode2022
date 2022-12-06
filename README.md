@@ -14,3 +14,4 @@ Readers are strongly encouraged to first try the puzzle before reading the break
 - [day 2](day2): match, list comprehension, modulo
 - [day 3](day3): complexity, sets
 - [day 4](day4): regex
+- [day 5](day5): regex match, shallow and deep copy, lambdas, reduce, slicing
