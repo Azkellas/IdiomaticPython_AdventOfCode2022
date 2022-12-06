@@ -20,6 +20,7 @@ for i in range(len(line)):
 ```
 
 And yeah. That's it for part 1.
+
 A small breakdown just in case:
 - `line[i:i+4]` extract the four consecutives characters starting at index `i`
 - since sets don't allow duplicates, testing if all elements are unique in a list is just testing the length of the resulting set against the length of the list.
@@ -37,7 +38,7 @@ print("part1", get_result(line, 4))
 print("part1", get_result(line, 14))
 ```
 
-And well, that's it for today! Congratulations for reaching this point, you rock!
+We're done for the day! Congratulations for reaching this point, you rock!
 
 ### Final remarks
 
