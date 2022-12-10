@@ -16,3 +16,4 @@ Readers are strongly encouraged to first try the puzzle before reading the break
 - [day 4](day4): regex
 - [day 5](day5): regex match, shallow and deep copy, lambdas, reduce, slicing
 - [day 6](day6)
+- [day 7](day7): classes, iterators, trees, recursion
